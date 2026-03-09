@@ -246,7 +246,7 @@ agentbrain org get invalid-id 2>&1
 Clone and build:
 
 ```bash
-git clone https://github.com/nextlevelbuilder/agentbrain-cli
+git clone https://github.com/pvenkatesh282675-ops/agentbrain-cli
 cd agentbrain-cli
 pnpm install
 pnpm build
